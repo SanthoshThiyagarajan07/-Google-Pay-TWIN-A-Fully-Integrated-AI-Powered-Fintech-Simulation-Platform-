@@ -513,7 +513,29 @@ For questions, issues, or suggestions:
 [![GitHub forks](https://img.shields.io/github/forks/your-username/google-pay-twin.svg?style=social&label=Fork)](https://github.com/your-username/google-pay-twin/fork)
 
 </div>
+<img width="677" alt="Screenshot 2025-06-23 132940" src="https://github.com/user-attachments/assets/03af4c00-306b-42aa-b923-4bcaec53b0ae" />
+<img width="671" alt="Screenshot 2025-06-23 132912" src="https://github.com/user-attachments/assets/2aab9fbb-ab96-4205-98d4-d6fd3593ccf2" />
+<img width="653" alt="Screenshot 2025-06-23 132839" src="https://github.com/user-attachments/assets/309ef68c-3e23-4409-892c-a9f7a864dfc3" />
+<img width="715" alt="Screenshot 2025-06-23 132809" src="https://github.com/user-attachments/assets/de2132dc-adfe-4650-a926-78bf1128f0cd" />
+<img width="682" alt="Screenshot 2025-06-23 132714" src="https://github.com/user-attachments/assets/00e020c4-04d1-460d-a9ff-9be64930728d" />
+<img width="701" alt="Screenshot 2025-06-23 132626" src="https://github.com/user-attachments/assets/dd1d7424-bbeb-4809-b7ea-f2c4b801a086" />
+<img width="691" alt="Screenshot 2025-06-23 132542" src="https://github.com/user-attachments/assets/4e3a83f1-aae6-4ef3-b1a1-9a9bf85d61a2" />
+<img width="701" alt="Screenshot 2025-06-23 132506" src="https://github.com/user-attachments/assets/c12daed6-aceb-439b-a8c8-835ac8baad18" />
+<img width="739" alt="Screenshot 2025-06-23 132337" src="https://github.com/user-attachments/assets/0315757c-e7ac-48b9-8c46-c5a798157ee4" />
+<img width="679" alt="Screenshot 2025-06-23 132235" src="https://github.com/user-attachments/assets/a25935fe-6205-446a-95bd-34938e35afa0" />
+<img width="714" alt="Screenshot 2025-06-23 132216" src="https://github.com/user-attachments/assets/8aa3e9af-f50b-4e80-a267-135b6b23ccab" />
+<img width="710" alt="Screenshot 2025-06-23 132148" src="https://github.com/user-attachments/assets/91020e55-bf19-4375-831d-1e8666e3de11" />
+<img width="684" alt="Screenshot 2025-06-23 131901" src="https://github.com/user-attachments/assets/d618982d-2791-40aa-84bc-d41eebb15fe2" />
+<img width="381" alt="Screenshot 2025-06-23 131813" src="https://github.com/user-attachments/assets/94a5af20-373f-440d-bedf-516032e503f0" />
+<img width="333" alt="Screenshot 2025-06-23 131619" src="https://github.com/user-attachments/assets/73a58140-87f8-4d49-b45a-fa70cfb560a0" />
+<img width="603" alt="Screenshot 2025-06-23 131526" src="https://github.com/user-attachments/assets/2f08ede3-dd21-4959-b611-3b8926b82cbf" />
+<img width="681" alt="Screenshot 2025-06-23 133918" src="https://github.com/user-attachments/assets/b2fed212-c7cb-4de6-8bb3-dff34a228125" />
+<img width="679" alt="Screenshot 2025-06-23 133844" src="https://github.com/user-attachments/assets/908154e4-cba4-4022-b9d4-9f93bde4613f" />
+<img width="713" alt="Screenshot 2025-06-23 133722" src="https://github.com/user-attachments/assets/6d06ba99-0555-4b7d-a79e-d1fabe3ec438" />
+<img width="739" alt="Screenshot 2025-06-23 133644" src="https://github.com/user-attachments/assets/36bac7eb-3f0b-40d5-87d1-bc0b3bbfae20" />
+<img width="683" alt="Screenshot 2025-06-23 133551" src="https://github.com/user-attachments/assets/4dd7354a-1d99-4bbc-b6d9-be1b7b62e703" />
+<img width="704" alt="Screenshot 2025-06-23 133526" src="https://github.com/user-attachments/assets/30a86128-05b8-4952-ab39-915e16be7291" />
+<img width="664" alt="Screenshot 2025-06-23 133459" src="https://github.com/user-attachments/assets/86ef82e2-f0a5-428b-86cf-40a8f892e030" />
+<img width="704" alt="Screenshot 2025-06-23 133415" src="https://github.com/user-attachments/assets/9b305020-461b-4cac-9adc-24e612e2b073" />
+<img width="672" alt="Screenshot 2025-06-23 133349" src="https://github.com/user-attachments/assets/91fda06b-1f0c-4f7a-bfa7-cb3abdbc2907" />
 
----
-
-*Last Updated: December 2024 | Version 2.0 | Built with ❤️ and Python*
