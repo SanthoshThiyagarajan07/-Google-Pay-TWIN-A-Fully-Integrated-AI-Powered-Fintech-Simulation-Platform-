@@ -1,0 +1,29 @@
+{
+    "wecan code": {
+        "active_challenges": [],
+        "completed_challenges": [],
+        "failed_challenges": []
+    },
+    "astin martin": {
+        "active_challenges": [],
+        "completed_challenges": [],
+        "failed_challenges": []
+    },
+    "santy_007": {
+        "active_challenges": [
+            {
+                "id": "da8e372e-aebf-4b9e-8f0c-5413ab3b05a5",
+                "title": "SCHOOL FEES ",
+                "challenge_type": "category",
+                "category": "Shopping",
+                "target_amount": 100.0,
+                "reward_amount": 5.0,
+                "start_date": "2025-06-23",
+                "end_date": "2025-06-30",
+                "created_date": "2025-06-23 09:45:55"
+            }
+        ],
+        "completed_challenges": [],
+        "failed_challenges": []
+    }
+}

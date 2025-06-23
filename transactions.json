@@ -1,0 +1,11 @@
+[
+    {
+        "sender": "santy_007",
+        "receiver": "Investment: PF PAYEMENT",
+        "amount": 100.0,
+        "date": "2025-06-23 09:48:48",
+        "type": "investment",
+        "category": "Investment",
+        "note": "Investment in EPF: PF PAYEMENT"
+    }
+]

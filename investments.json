@@ -1,0 +1,15 @@
+[
+    {
+        "username": "santy_007",
+        "name": "PF PAYEMENT",
+        "type": "EPF",
+        "initial_amount": 100.0,
+        "current_amount": 100.0,
+        "units": 1.0,
+        "purchase_price": 100.0,
+        "current_price": 100.0,
+        "purchase_date": "2025-06-23",
+        "last_updated": "2025-06-30",
+        "notes": ""
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "santy_007": [
+        {
+            "id": "561221a5-65b3-41c6-b135-35fdb60fb436",
+            "name": "HOTSAT",
+            "amount": 199.0,
+            "category": "Streaming",
+            "billing_frequency": "Monthly",
+            "next_billing_date": "2025-07-23",
+            "auto_pay": true,
+            "reminder_days": 3,
+            "created_date": "2025-06-23 09:35:46",
+            "active": true
+        }
+    ]
+}
